@@ -1,0 +1,17 @@
+D:\Dot Net\InventoryManagementSysytem\InventoryManagementSysytem\bin\Debug\InventoryManagementSysytem.exe.config
+D:\Dot Net\InventoryManagementSysytem\InventoryManagementSysytem\bin\Debug\InventoryManagementSysytem.exe
+D:\Dot Net\InventoryManagementSysytem\InventoryManagementSysytem\bin\Debug\InventoryManagementSysytem.pdb
+D:\Dot Net\InventoryManagementSysytem\InventoryManagementSysytem\obj\Debug\InventoryManagementSysytem.csproj.AssemblyReference.cache
+D:\Dot Net\InventoryManagementSysytem\InventoryManagementSysytem\obj\Debug\InventoryManagementSysytem.csproj.SuggestedBindingRedirects.cache
+D:\Dot Net\InventoryManagementSysytem\InventoryManagementSysytem\obj\Debug\InventoryManagementSysytem.Form1.resources
+D:\Dot Net\InventoryManagementSysytem\InventoryManagementSysytem\obj\Debug\InventoryManagementSysytem.Properties.Resources.resources
+D:\Dot Net\InventoryManagementSysytem\InventoryManagementSysytem\obj\Debug\InventoryManagementSysytem.csproj.GenerateResource.cache
+D:\Dot Net\InventoryManagementSysytem\InventoryManagementSysytem\obj\Debug\InventoryManagementSysytem.csproj.CoreCompileInputs.cache
+D:\Dot Net\InventoryManagementSysytem\InventoryManagementSysytem\obj\Debug\InventoryManagementSysytem.exe
+D:\Dot Net\InventoryManagementSysytem\InventoryManagementSysytem\obj\Debug\InventoryManagementSysytem.pdb
+D:\Dot Net\InventoryManagementSysytem\InventoryManagementSysytem\obj\Debug\InventoryManagementSysytem.MainForm.resources
+D:\Dot Net\InventoryManagementSysytem\InventoryManagementSysytem\obj\Debug\InventoryManagementSysytem.CustomerButton.resources
+D:\Dot Net\InventoryManagementSysytem\InventoryManagementSysytem\obj\Debug\InventoryManagementSysytem.UserForm.resources
+D:\Dot Net\InventoryManagementSysytem\InventoryManagementSysytem\obj\Debug\InventoryManagementSysytem.UserModelForm.resources
+D:\Dot Net\InventoryManagementSysytem\InventoryManagementSysytem\obj\Debug\InventoryManagementSysytem.CustomerForm.resources
+D:\Dot Net\InventoryManagementSysytem\InventoryManagementSysytem\obj\Debug\InventoryManagementSysytem.CustomerModeForm.resources
